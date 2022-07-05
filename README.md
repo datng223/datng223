@@ -17,7 +17,7 @@ As a PHP Web Developer, I am always looking for full-time opportunities
   <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram Profile" height="30" width="30">
 </a> 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="280" />
 
 ### Programming Languages ###
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
