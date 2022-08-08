@@ -2,7 +2,7 @@
 
 I graduated from the Faculty of Information Technology, Hanoi Open University.
 
-As a PHP Web Developer, I am always looking for full-time jobs
+
 
 ### You can reach me at ###  
 <a href="https://www.facebook.com/bi.my.14/">
