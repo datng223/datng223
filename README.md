@@ -23,12 +23,10 @@ I graduated from the Faculty of Information Technology, Hanoi Open University.
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=PHP&logoColor=white)
 
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=Bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/JQuery%20-%230769AD.svg?&style=flat-square&logo=JQuery&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat-square&logo=Laravel&logoColor=white)
 
 ### Servers/Databases ###
 ![Apache](https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=flat-square&logo=Apache&logoColor=white)
